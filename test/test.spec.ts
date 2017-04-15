@@ -1,7 +1,7 @@
 
 
 describe("test", (): void =>  {
-  it("should fail", (): void => {
+  it("should pass", (): void => {
     expect(1).toEqual(1);
   })
 })
